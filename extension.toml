@@ -1,11 +1,11 @@
-id = "adwaita-zed"
-name = "Adwaita Zed Theme"
+id = "adwaita"
+name = "Adwaita"
 version = "1.0.0"
 schema_version = 1
 description = "A GNOME Adwaita styled theme for Zed with syntax highlighting based on the gtksourceview Adwaita style"
 repository = "https://github.com/somepaulo/adwaita-zed-theme"
 authors = ["Paulo Fino <somepaulo@duck.com>"]
-themes = ["themes/adwaita-zed.json"]
+themes = ["themes/adwaita.json"]
 languages = []
 
 [lib]
