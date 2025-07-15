@@ -1,0 +1,1 @@
+# adwaita-zed-theme
