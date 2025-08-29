@@ -198,7 +198,7 @@
           "class": {
             "color": "#4E9A06",
             "font_style": null,
-            "font_weight": null
+            "font_weight": 700
           },
           "comment": {
             "color": "#777777",
@@ -263,7 +263,7 @@
           "id": {
             "color": "#58C8AF",
             "font_style": null,
-            "font_weight": null
+            "font_weight": 700
           },
           "keyword": {
             "color": "#FFA348",
@@ -371,7 +371,7 @@
             "font_weight": null
           },
           "string.special": {
-            "color": "#F66151",
+            "color": "#7D8AC7",
             "font_style": null,
             "font_weight": null
           },
@@ -639,7 +639,7 @@
           "class": {
             "color": "#4E9A06",
             "font_style": null,
-            "font_weight": null
+            "font_weight": 700
           },
           "comment": {
             "color": "#77767B",
@@ -704,7 +704,7 @@
           "id": {
             "color": "#218787",
             "font_style": null,
-            "font_weight": null
+            "font_weight": 700
           },
           "keyword": {
             "color": "#C64600",
@@ -812,7 +812,7 @@
             "font_weight": null
           },
           "string.special": {
-            "color": "#F66151",
+            "color": "#4E57BA",
             "font_style": null,
             "font_weight": null
           },
